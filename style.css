@@ -1,0 +1,45 @@
+.jumbotron{
+  background-color: mediumaquamarine;
+}
+.display-4{
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+
+.lead{
+  text-align: center;
+}
+
+
+.col-sm-4{
+  border-style: hidden;
+  background-color: lightgrey;
+  padding-bottom: 10px;
+}
+
+#cityLabel{
+  font-weight: bold;
+}
+
+.col-sm-8{
+  padding-left: 20px;
+}
+
+.card{
+  height: 150px;
+  width: 150px;
+  border-style: hidden;
+  border-color: white;
+}
+
+.card-title{
+  width: 150px;
+}
+
+.card-body{
+  height: 50px;
+  width: 150px;
+  background-color: wheat;
+  border-bottom: 100px;
+}
